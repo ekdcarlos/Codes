@@ -12,3 +12,7 @@ This repository is a timeline of my coding progress since joining university. Fr
  Why I Made This
 To track my growth, build a public portfolio, and show interviewers what I’ve learned.
 
+ Contact Me
+- Email: denaemmanuel75@gmail.com
+- LinkedIn: Emmanuel Dena
+
